@@ -1,7 +1,7 @@
 package main
 
-import "github.com/hond0413/gonew-template/infrastructure"
+import "fmt"
 
 func main() {
-	infrastructure.Init()
+	fmt.Println("Hello, gonew-template-private!")
 }
