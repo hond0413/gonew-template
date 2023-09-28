@@ -1,1 +1,1 @@
-# gonew-template-private
+# gonew-template
